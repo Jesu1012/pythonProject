@@ -1,16 +1,51 @@
-# This is a sample Python script.
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+# TODO: 2
+age = 20
+"""Print 2
+    # print("I am  " + age +" years old")
+    # print("I am "+str(age)+" years old")
+    # print("I am", age, "years old")
+    # print(f"I am {age} years old")
+"""
+
+"""
+# Integer
+age = 21
+players = 2
+quantity = 5
+
+print(f"You are {age} years old")
+print(f"There are {players} players online")
+print(f"You would like to buy {quantity} items")
+
+"""
+"""
+#Float
+gpa = 3.0
+distance = 2.5
+price = 10.99
+print(f"Your gpa is {gpa}")
+print(f"Your run {distance}Km")
+print(f"The price is ${price}")
+"""
+"""
+"""
+#Strings
+name = 'Jesus'
+food = "Pizza"
+email = "coronel12jesus@gmail.com"
+print(f"Hello {name}")
+print(f"You like {food}")
+print(f"Your email is:{email}")
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+# TODO: 1
+"""
+Print 1
+    # print("My Cat is beautiful")
+    # print("That Good")
+"""
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+#Documentation Python
