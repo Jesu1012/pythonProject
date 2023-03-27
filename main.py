@@ -7,7 +7,6 @@ age = 20
     # print("I am", age, "years old")
     # print(f"I am {age} years old")
 """
-
 """
 # Integer
 age = 21
@@ -29,7 +28,6 @@ print(f"Your run {distance}Km")
 print(f"The price is ${price}")
 """
 """
-"""
 #Strings
 name = 'Jesus'
 food = "Pizza"
@@ -37,6 +35,21 @@ email = "coronel12jesus@gmail.com"
 print(f"Hello {name}")
 print(f"You like {food}")
 print(f"Your email is:{email}")
+"""
+
+"""
+#Boolean
+
+online = True
+for_sale = False
+running = False
+
+if running :
+    print("The game is running")
+else:
+    print("The game is over")
+"""
+
 
 
 # TODO: 1
