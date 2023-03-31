@@ -1,3 +1,20 @@
+
+"""TODO : 5"""
+# Math
+"""import math
+num = math.pi
+print(num)
+"""
+"""# friends = 9
+# friends += 1
+# friends -= 2
+# friends *= 3
+# friends /= 2
+# friends **= 2
+# friends %= 2
+#print(friends)
+"""
+
 """TODO : 4"""
 # Input
 """
@@ -16,12 +33,13 @@ height = float(input("Enter the height of a rectangle: "))
 area = length * width * height
 print(f"The volume is : {area} cm^3")
 """
-item = input("What item would you like to buy?: ")
+"""item = input("What item would you like to buy?: ")
 price = float(input("What is the price?: "))
 quantity = int(input("How many would you like?: "))
 total = price * quantity
 print(f"You have bought {quantity} x {item}/s")
 print(f"Your total is: ${round(total,0)}") # Round decimals with respect to what you indicate: 0,1,2
+"""
 
 """TODO: 3"""
 # Casting Explicit and Implicit
